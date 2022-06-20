@@ -3,7 +3,7 @@
 ***
 
 - 🖌️ Web Designer ( html, css, js )
-- ☕ Junior Bukkit Plugin Developer
+- ☕ Junior Bukkit Plugin Developer ( java )
 
 <!---
 MareonPL/MareonPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
