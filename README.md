@@ -2,7 +2,7 @@
 
 ***
 
-- 🖌️ Web Designer ( html, css, js )
+- Shrug ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
 
 <!---
 Pierwszy plik README.md
